@@ -1,2 +1,3 @@
 # 100hires-project
 This is my 1st project 
+I installed Cursor IDE from the official website and explored its interface to understand how it works. I then installed the Claude Code and Codex extensions inside Cursor and logged into both tools. After that, I created a public GitHub repository and opened it in Cursor to start working on the project. I created the README.md file to document the setup process and pushed it to GitHub. During the process, I encountered some difficulties with unfamiliar tools and GitHub operations, but I resolved them by searching for tutorials and following step-by-step guides.
